@@ -1,0 +1,8 @@
+"https://react.dev/learn"
+npm init react-app <name of app>
+npm start
+
+"https://create-react-app.dev/docs/getting-started/"
+npx create-react-app <name of app>
+cd my-app
+npm start
